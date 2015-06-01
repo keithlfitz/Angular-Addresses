@@ -1,14 +1,13 @@
 {
   "name": "Angular-Addresses",
-  "version": "0.0.0",
-  "homepage": "https://github.com/keithlfitz/Angular-Addresses",
+
+  "version": "1.0.0",
+  "homepage": "https://github.com/NSS-Cohort-9/Angular-Addresses",
   "authors": [
-    "keith fitzpatrick <keith_fitzpatrick@hotmail.com>"
+    "Scott Humphries <scott@sscotth.io>"
   ],
   "main": "index.html",
-  "moduleType": [
-    "globals"
-  ],
+
   "license": "MIT",
   "ignore": [
     "**/.*",
